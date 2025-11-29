@@ -1,0 +1,5 @@
+{
+  "name": "CFOP Master 3D",
+  "description": "An interactive 3D Rubik's Cube learning tool featuring CFOP algorithms visualization and AI-powered speedcubing coaching.",
+  "requestFramePermissions": []
+}
